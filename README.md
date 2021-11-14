@@ -2,11 +2,15 @@
 
 Проект светофора, с использованием автомата конечных состояний(FSM).
 
-![Schematic](https://raw.githubusercontent.com/techn0man1ac/TrafficLightsArduino/main/Schematic_TrafficLightsArduino_2021-11-13.png "Schematic")
+![Schematic no tinkercad](https://raw.githubusercontent.com/techn0man1ac/TrafficLightsArduino/main/tinkercad.PNG "Schematic no tinkercad")
+
+https://www.tinkercad.com/things/6RgKYxtljjD-trafficlightsarduino
 
 Schematic on EasyEDA:
 
 https://easyeda.com/raznie.podelki/trafficlightsarduino
+
+![Schematic on EasyEDA](https://raw.githubusercontent.com/techn0man1ac/TrafficLightsArduino/main/Schematic_TrafficLightsArduino_2021-11-13.png "Schematic on EasyEDA")
 
 Write by Techn0man1ac, special to https://www.robo.house/ 
 
