@@ -2,9 +2,9 @@
 
 Проект светофора, с использованием автомата конечных состояний(FSM).
 
-![Schematic no tinkercad](https://github.com/techn0man1ac/TrafficLightsArduino/blob/main/Files/tinkercad.PNG "Schematic no tinkercad")
-
 https://www.tinkercad.com/things/6RgKYxtljjD-trafficlightsarduino
+
+![Schematic no tinkercad](https://github.com/techn0man1ac/TrafficLightsArduino/blob/main/Files/tinkercad.PNG "Schematic no tinkercad")
 
 Schematic on EasyEDA:
 
