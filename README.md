@@ -8,7 +8,7 @@ https://www.tinkercad.com/things/6RgKYxtljjD-trafficlightsarduino
 
 Schematic on EasyEDA:
 
-https://easyeda.com/raznie.podelki/trafficlightsarduino
+https://oshwlab.com/raznie.podelki/trafficlightsarduino
 
 ![Schematic on EasyEDA](https://raw.githubusercontent.com/techn0man1ac/TrafficLightsArduino/main/Files/Schematic_TrafficLightsArduino_2021-11-13.png "Schematic on EasyEDA")
 
