@@ -1,6 +1,6 @@
 # TrafficLightsArduino
 
-Проект светофора, с использованием автомата конечных состояний(FSM):
+Traffic light project using a finite state machine(FSM):
 
 https://www.tinkercad.com/things/6RgKYxtljjD-trafficlightsarduino
 
